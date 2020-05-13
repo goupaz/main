@@ -9,6 +9,7 @@
 ## Projects
 
 ### Sandbox
+- [Python Open Policy Agent (OPA) Client](https://github.com/Turall/OPA-python-client)
 
 ### Incubating
 
