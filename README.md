@@ -55,6 +55,7 @@ By solid engineers for solid engineers.
 - [ ] [Tech Academy](https://www.tech.edu.az/)
 - [ ] [Pragmatech](http://pragmatech.az/)
 - [ ] [Ingress Academy](http://ingress.az/)
+- [ ] [Itcity](https://itcity.academy/)
 - SIG - Special Interest Groups
 
 ## About Us
