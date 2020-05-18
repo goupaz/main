@@ -47,14 +47,14 @@ By solid engineers for solid engineers.
 ## Partners
 
 - Silver
-[erpgo](https://erpgo.az/)
+- [ ] [erpgo](https://erpgo.az/)
 - Gold
 - Platinum
 - Academic Non-Profit
-[Expertech](http://expertech.az/)
-[Tech Academy](https://www.tech.edu.az/)
-[Pragmatech](http://pragmatech.az/)
-[Ingress Academy](http://ingress.az/)
+- [ ] [Expertech](http://expertech.az/)
+- [ ] [Tech Academy](https://www.tech.edu.az/)
+- [ ] [Pragmatech](http://pragmatech.az/)
+- [ ] [Ingress Academy](http://ingress.az/)
 - SIG - Special Interest Groups
 
 ## About Us
