@@ -16,6 +16,7 @@ By solid engineers for solid engineers.
 
 - [Python Open Policy Agent (OPA) Client](https://github.com/Turall/OPA-python-client)
 - [TSSG - The Swagger Schema Generator](https://github.com/tauqeernasir/tssg-editor) Maintainer: [Tauqeer Nasir](https://www.linkedin.com/in/tauqeer-nasir-767624111/)
+- [Cloud native platform for Data Stream](https://github.com/infinyon/fluvio) Maintainer: [Sehyo Chang](https://www.linkedin.com/in/sehyo/)
 - [Lowlevel](https://github.com/goupaz/lowlevel) Maintainer: [Emin Guliyev](https://www.linkedin.com/in/emin-ghuliev-461a22129/)
 - [JobHax](https://github.com/job-hax) Maintainer: [Sako M](https://www.linkedin.com/in/sakom/)
 - [Algo](https://github.com/goupaz/algo) Maintainer: [Sako M](https://www.linkedin.com/in/sakom/)
